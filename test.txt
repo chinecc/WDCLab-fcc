@@ -1,1 +1,2 @@
+0. add some local texts in test.txt
 1. create test.txt file
