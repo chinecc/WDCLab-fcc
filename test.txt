@@ -1,3 +1,4 @@
 0. add some local texts in test.txt
 1. create test.txt file
 2. add some text 
+3. add some test on master.
