@@ -30,7 +30,7 @@ function telephoneCheck(str) {
       return i;
   }
 
-  Array.prototype.indexOf = function(val){ // 传进来参数，返回该参数所在数组的index
+Array.prototype.indexOf = function(val){ // 传进来参数，返回该参数所在数组的index
     for (var i = 0; i < this.length; i++){
         if (this[i] === val) return i;
     }
